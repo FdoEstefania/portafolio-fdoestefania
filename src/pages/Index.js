@@ -47,10 +47,10 @@ function Index() {
                         He trabajado en el aprovechamiento de metodología ágiles para obtener el mejor resultado posible de un proyecto.
                         </p>
                         <div className="social-icons">
-                            <a className="social-icon" href="#!"><i className="fab fa-linkedin-in"></i></a>
-                            <a className="social-icon" href="#!"><i className="fab fa-github"></i></a>
-                            <a className="social-icon" href="#!"><i className="fab fa-twitter"></i></a>
-                            <a className="social-icon" href="#!"><i className="fab fa-facebook-f"></i></a>
+                            <a className="social-icon" href="https://www.linkedin.com/in/fernando-estefania-b47ba795"><i className="fab fa-linkedin-in"></i></a>
+                            <a className="social-icon" href="https://github.com/FdoEstefania"><i className="fab fa-github"></i></a>
+                            <a className="social-icon" href="https://twitter.com"><i className="fab fa-twitter"></i></a>
+                            <a className="social-icon" href="https://www.facebook.com/fdoestefania"><i className="fab fa-facebook-f"></i></a>
                         </div>
                     </div>
                 </section>
