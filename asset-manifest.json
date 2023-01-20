@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portafolio-fdoestefania/static/css/main.073c9b0a.css",
-    "main.js": "/portafolio-fdoestefania/static/js/main.62a522f9.js",
+    "main.js": "/portafolio-fdoestefania/static/js/main.7ae96838.js",
     "static/js/787.9197c585.chunk.js": "/portafolio-fdoestefania/static/js/787.9197c585.chunk.js",
     "static/media/logo.svg": "/portafolio-fdoestefania/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portafolio-fdoestefania/index.html",
     "main.073c9b0a.css.map": "/portafolio-fdoestefania/static/css/main.073c9b0a.css.map",
-    "main.62a522f9.js.map": "/portafolio-fdoestefania/static/js/main.62a522f9.js.map",
+    "main.7ae96838.js.map": "/portafolio-fdoestefania/static/js/main.7ae96838.js.map",
     "787.9197c585.chunk.js.map": "/portafolio-fdoestefania/static/js/787.9197c585.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.62a522f9.js"
+    "static/js/main.7ae96838.js"
   ]
 }
