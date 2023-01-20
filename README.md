@@ -2,8 +2,7 @@
 
 # Para volver a publicar con nuevos cambios ejecutar el commando (package gh-pages instalado):
 
-
-
+  npm run deploy
 
   "scripts": {
     "predeploy": "npm run build",
@@ -13,10 +12,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   }
-            
-            npm run deploy
-            
-            
             
 # Sin antes subir los cambios con:
 
